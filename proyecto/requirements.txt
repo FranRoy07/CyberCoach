@@ -10,3 +10,76 @@ Flask-Session==0.5.0
 psycopg2-binary==2.9.9
 python-dotenv==1.0.0
 Werkzeug==2.3.7
+
+# Seguridad y autenticación
+bcrypt==4.3.0
+Flask-Bcrypt==1.0.1
+Flask-JWT-Extended==4.7.1
+Flask-Limiter==3.5.0
+Flask-Talisman==1.0.0
+Flask-Security-Too==5.4.0
+
+# Manejo de sesiones
+Flask-Session==0.5.0
+itsdangerous==2.1.2
+
+# Validación y procesamiento de datos
+python-magic==0.4.27
+filetype==1.2.0
+
+# Manejo de fechas y tiempos
+python-dateutil==2.9.0.post0
+pytz==2023.3
+
+# Validación de datos
+WTForms==3.2.1
+marshmallow==3.21.0
+
+# Logging y monitoring
+structlog==24.1.0
+python-json-logger==2.0.7
+
+# Manejo de archivos y storage
+Pillow==10.1.0
+boto3==1.34.24
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Desarrollo
+black==23.11.0
+flake8==6.1.0
+isort==5.13.2
+pre-commit==3.5.0
+
+# Utilidades
+SQLAlchemy==2.0.23
+email-validator==2.1.0.post1
+python-jose[cryptography]==3.3.0
+
+# Manejo de fechas y tiempos
+python-dateutil==2.9.0.post0
+pytz==2023.3
+
+# Validación de datos
+WTForms==3.2.1
+marshmallow==3.21.0
+
+# Logging y monitoring
+structlog==24.1.0
+python-json-logger==2.0.7
+
+# Manejo de archivos y storage
+Pillow==10.1.0
+boto3==1.34.24
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Desarrollo
+black==23.11.0
+flake8==6.1.0
+isort==5.13.2
+pre-commit==3.5.0
